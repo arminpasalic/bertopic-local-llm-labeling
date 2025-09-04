@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+stopwordsiso
+llama-cpp-python
